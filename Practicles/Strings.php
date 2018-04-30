@@ -1,5 +1,16 @@
 <!-- 
 	This Program contains answer to the question number 4,5,6,8,11,14
+	1. Create a PHP page which accepts string from user. After submission    
+	   that page displays the reverse of provided string.
+	2. Write a PHP function that checks if a string is all lower case.
+	3. Write a PHP script that checks whether a passed string is 
+	   palindrome or not? ( A palindrome is word, phrase, or sequence 
+	   that reads the same backward as forward, e.g., madam or nurses run)
+	4. Write a PHP script that removes the whitespaces from a string.
+	   Sample string : 'The quick " " brown fox'
+	   Expected Output : Thequick""brownfox
+	5. Write a PHP script that checks if a string contains another string.
+	6. Write a simple PHP program to check that emails are valid.
 -->
 <!DOCTYPE html>
 <html>
